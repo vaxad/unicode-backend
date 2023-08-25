@@ -1,0 +1,3 @@
+[submodule "unicode-task2"]
+	path = unicode-task2
+	url = https://github.com/vaxad/unicode-task2.git
