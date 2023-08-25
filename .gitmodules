@@ -1,3 +1,6 @@
 [submodule "unicode-task2"]
 	path = unicode-task2
 	url = https://github.com/vaxad/unicode-task2.git
+[submodule "unicode-task3"]
+	path = unicode-task3
+	url = https://github.com/vaxad/unicode-task3.git
